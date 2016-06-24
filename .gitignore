@@ -52,3 +52,9 @@ tests/test_*
 # Generated docs
 doc/doxygen-output
 
+# visual studio files
+.vs/
+Debug/
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.filters
